@@ -1,1 +1,0 @@
-# libmavlinkcpp_v2
